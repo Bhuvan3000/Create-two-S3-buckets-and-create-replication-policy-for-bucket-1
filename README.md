@@ -59,15 +59,7 @@ To create two Amazon S3 buckets and configure replication from the source bucket
 - Uploaded a file (`test.txt`) to bucket-1
 - Verified that the file was automatically replicated to bucket-2
 
----
 
-## 📸 Screenshots
-- AWS Console Home
-- Bucket Creation (both buckets)
-- Versioning Enabled
-- Replication Rule Configuration
-- File Upload in Bucket-1
-- File Replicated in Bucket-2
 
 ---
 
